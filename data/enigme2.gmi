@@ -1,0 +1,16 @@
+# 🔐 Énigme 2 — Le secret chiffré
+
+Voici un texte encodé en Base64.  
+Décode-le pour obtenir la clé du chapitre suivant.
+
+
+Indice : Base64 → texte ASCII lisible.
+
+Quand tu as la réponse, choisis une proposition ci-dessous :
+
+U2VjcmV0Q2hhcHRyZQ==
+
+=> /cgi-bin/check_answer.py?puzzle=enigme2&answer=WrongChoiceA  Option A : SecretBook
+=> /cgi-bin/check_answer.py?puzzle=enigme2&answer=WrongChoiceB  Option B : SecretLock
+=> /cgi-bin/check_answer.py?puzzle=enigme2&answer=SecretChapter Option C : SecretChapter
+=> /cgi-bin/check_answer.py?puzzle=enigme2&answer=WrongChoiceD  Option D : SecretGem

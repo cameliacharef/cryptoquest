@@ -1,0 +1,10 @@
+# 🎉 Félicitations !
+
+Tu as terminé CryptoQuest !
+
+Merci d'avoir joué — tu maîtrises désormais :
+- SHA-256 (hachage)
+- Base64 (encodage)
+- Utilisation de Gemini et CGI
+
+=> gemini://localhost/  Retour à l'accueil

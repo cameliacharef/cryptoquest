@@ -1,0 +1,3 @@
+[console_scripts]
+jetforce = jetforce.__main__:main
+jetforce-client = jetforce_client:run_client
